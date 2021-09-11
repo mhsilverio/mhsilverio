@@ -1,6 +1,6 @@
 ### HELLO, DEAR ONE ✨
 
-#### I'm Milena and welcome to my profile 💙
+#### I'm Milena, a computer engineering student and welcome to my profile 💙
 
 ##
 <div> 
