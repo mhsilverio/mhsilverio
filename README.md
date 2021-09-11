@@ -1,6 +1,6 @@
 ### HELLO, DEAR ONE ✨
 
-#### I'm Milena and welcome to my space 💙
+#### I'm Milena and welcome to my profile 💙
 
 ##
 <div> 
