@@ -2,7 +2,6 @@
 
 <h3>  I'm Milena, a computer engineering student and welcome to my profile 💙 </h3>
 
-<h6>
 <div> 
   ▪️ Platforms that you can contact or follow me:
   <h4 align = "end">
@@ -12,10 +11,14 @@
 </h4>
 </div>  
 
-<h6>
-  
+##
 <div> 
   
 ![Snake animation](https://github.com/mhsilverio/mhsilverio/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+  
+##
+<div align="center">
+  <a href="https://github.com/mhsilverio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsilverio&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
