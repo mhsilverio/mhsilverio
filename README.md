@@ -1,6 +1,9 @@
-<h1> HELLO, DEAR ONE ✨</h1>
+<h1 align = "center"> HELLO, DEAR ONE ✨</h1>
 
-<h3>  I'm Milena, a computer engineering student and welcome to my profile 💙 </h3>
+<h3 align = "center"> Welcome to my profile 💙 </h3>
+
+<h4> My name is Milena and I'm a computer engineering student.</h4>
+
 
 <div> 
   ▪️ Platforms that you can contact or follow me:
