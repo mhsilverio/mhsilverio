@@ -1,4 +1,4 @@
-<h1 align = "center"> HELLO, DEAR ONE ✨</h1>
+<h0 align = "center"> HELLO, DEAR ONE ✨</h0>
 
 <h3 align = "center"> Welcome to my profile 💙 </h3>
 
