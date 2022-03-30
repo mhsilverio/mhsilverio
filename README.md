@@ -1,5 +1,3 @@
-
-<img align="center" alt="mhsilverio-msqlserver"  src="https://komarev.com/ghpvc/?username=mhsilverio&style=flat-square">
 <h1 align = "center"> HELLO, DEAR ONE ✨</h1>
 
 <h3 align = "center"> Welcome to my profile 💙 </h3>
@@ -27,3 +25,5 @@
   <a href="https://github.com/mhsilverio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsilverio&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
+  
+<img align="center" alt="mhsilverio-msqlserver"  src="https://komarev.com/ghpvc/?username=mhsilverio&style=flat-square">
