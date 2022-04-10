@@ -4,7 +4,6 @@
 <h3 align="center"> WELCOME TO MY PROFILE </h3>
 <h3 align="center"> 💙✨ </h3>
 
-##
 <h4> My name is Milena and I'm a computer engineering student.</h4>
 
 
