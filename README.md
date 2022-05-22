@@ -3,8 +3,6 @@
 <h3 align="center"> 💙✨ </h3>
 
 ##
-<h4> My name is Milena and I'm a computer engineering student.</h4>
-
 
 <div> 
   <h3 align = "end">
