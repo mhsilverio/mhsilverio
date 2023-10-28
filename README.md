@@ -10,14 +10,6 @@
   <a href = "mailto:milenahsilverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </h3>
 </div>  
-
-##
-<div>
-  
-![Snake animation](https://github.com/mhsilverio/mhsilverio/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
-##
 <div align="center">
   <a href="https://github.com/mhsilverio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsilverio&layout=compact&langs_count=7&theme=dracula"/>
